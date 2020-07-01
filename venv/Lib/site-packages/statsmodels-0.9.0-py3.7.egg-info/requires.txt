@@ -1,0 +1,10 @@
+
+[docs]
+sphinx
+nbconvert
+jupyter_client
+ipykernel
+matplotlib
+nbformat
+numpydoc
+pandas-datareader
